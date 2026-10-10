@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/eimg/property-portal-api.git
+[submodule "app"]
+	path = app
+	url = https://github.com/eimg/property-portal-app.git
